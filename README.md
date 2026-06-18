@@ -28,3 +28,6 @@ El bot se conecta a un archivo Excel que funciona como base de datos de producto
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/facundopeli/vinos-bot.git
+
+## 📊 Diagrama BPMN
+![Diagrama BPMN](Diagrama_BPMN_VinosBot.png)
