@@ -5,13 +5,18 @@ Chatbot de Telegram desarrollado en Java para automatizar la consulta de stock y
 > 🚧 Proyecto en desarrollo. Surgió como trabajo para la Tecnicatura Universitaria en Programación (UTN) y lo estoy extendiendo para usarlo en el negocio.
 
 ## 🎥 Demo
-**Búsqueda de un vino y toma de pedido**
-<img width="962" height="528" alt="bot_manejo de errores" src="https://github.com/user-attachments/assets/0c2e45af-2a59-4460-83ad-00d3eef78cd6" />
-**Confirmación del pedido**
-<img width="953" height="530" alt="captura 3 bot" src="https://github.com/user-attachments/assets/b110c157-bada-40a4-bb79-21f2710ccdee" />
-**Validación de stock**
-<img width="964" height="528" alt="captura 2 bot" src="https://github.com/user-attachments/assets/aa96c50a-28ff-4293-8583-ceeeced91b11" />
 
+**Búsqueda de un vino y toma de pedido**
+
+<img width="964" height="528" alt="Búsqueda y pedido" src="https://github.com/user-attachments/assets/aa96c50a-28ff-4293-8583-ceeeced91b11" />
+
+**Confirmación del pedido**
+
+<img width="953" height="530" alt="Pedido registrado" src="https://github.com/user-attachments/assets/b110c157-bada-40a4-bb79-21f2710ccdee" />
+
+**Validación de stock**
+
+<img width="962" height="528" alt="Validación de stock" src="https://github.com/user-attachments/assets/0c2e45af-2a59-4460-83ad-00d3eef78cd6" />
 
 ## 📌 Problema que resuelve
 
@@ -73,7 +78,7 @@ datos/vinos.xlsx        → catálogo de productos
 - [x] Flujo conversacional para tomar pedidos
 - [x] Lectura del catálogo desde Excel
 - [ ] Persistir pedidos y stock (hoy se mantienen en memoria)
-- [ ] Migrar la persistencia a una base de datos [MySQL / MongoDB]
+- [ ] Migrar la persistencia a una base de datos MySQL
 - [ ] Puesta en funcionamiento en El Tonel
 
 ## 👤 Autor
