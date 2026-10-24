@@ -28,7 +28,7 @@ public class VinosBot extends TelegramLongPollingBot{
 
     @Override
     public String getBotToken() {
-        return "8818227715:AAH_tvCSUaSZGqh3isJVJgH19wf0OYJbrao";
+        return System.getenv("TELEGRAM_BOT_TOKEN");
     }
 
     @Override
